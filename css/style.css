@@ -53,3 +53,30 @@ header {
 }
 
 /* header end */
+/* section start */
+.azizbek {
+  min-height: 100vh;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: purple;
+}
+
+.azizbek__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+}
+
+.azizbek__title {
+  font-size: 60px;
+  text-transform: uppercase;
+  color: red;
+  margin-bottom: 35px;
+}
+.azizbek__txt {
+  font-size: 24px;
+  color: red;
+}
+
+/* section end */
